@@ -1,3 +1,4 @@
 *.pdf
 *.xlsx
 output/*
+.DS_Store
